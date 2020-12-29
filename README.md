@@ -2,12 +2,11 @@
 
 First step
 ==========
-open XAMPP Control Panel
-------------------------
+open XAMPP Control Panel >
 Apacha => Start
 MySQL => Start
 
 Second step
 ===========
-open browser and type localhost in URL
+open browser and type localhost in URL >
 select phpMyAdmin
