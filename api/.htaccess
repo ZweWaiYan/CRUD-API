@@ -1,0 +1,7 @@
+RewriteEngine On # Turn on the rewriting engine
+RewriteRule ^category/?$ category.php [NC,L]
+RewriteRule ^category/([0-9]+)/?$ category.php?id=$1 [NC,L]
+
+RewriteRule ^sub_category/?$ sub_category.php [NC,L]
+RewriteRule ^sub_category/([0-9]+)/?$ sub_category.php?id=$1 [NC,L]
+
