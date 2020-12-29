@@ -4,7 +4,7 @@ First step
 ==========
 open XAMPP Control Panel >
 Apacha => Start
-MySQL => Start
+, MySQL => Start
 
 Second step
 ===========
